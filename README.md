@@ -55,7 +55,6 @@ Service discovery and load balancing
 High availability & auto-scaling
 
 **🔹 Infrastructure as Code (IaC) with Terraform**
-https://github.com/Prasadrasal2002/Terraform-AWS.git
 
 Automated AWS resource provisioning using:
 
