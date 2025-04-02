@@ -63,11 +63,8 @@ Terraform modules & state management
 
 IAM policies & security best practices
 
-📊 GitHub Stats
 
-
-
-💌 Let's Connect!
+💬 Let's Connect!
 
 LinkedIn: www.linkedin.com/in/prasad-rasal-974692229
 
