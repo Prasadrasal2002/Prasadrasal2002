@@ -63,6 +63,22 @@ Provisioned AWS infrastructure using Terraform modules and state management.
 Designed IAM policies following security best practices.
 
 
+**📊 GitHub Stats:**
+
+![Prasad Rasal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prasadrasal2002&show_icons=true&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prasadrasal2002&theme=github-dark&hide_border=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prasadrasal2002&layout=compact&theme=github_dark)
+
+
+**🏆 GitHub Trophies:**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prasadrasal2002&theme=darkhub&no-bg=true&no-frame=true&row=1)
+
+
+
 **💬 Let's Connect!**
 LinkedIn: www.linkedin.com/in/prasad-rasal-974692229
 
