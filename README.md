@@ -5,7 +5,7 @@ Welcome to my **GitHub** profile! I am a passionate **DevOps Engineer** with exp
 
 **DevOps & Cloud:**
 
-AWS (EC2, S3, IAM, RDS, Lambda)
+AWS (EC2, S3, IAM, RDS, Lambda, EKS, Cloudwatch, VPC)
 
 Docker & Kubernetes
 
@@ -25,44 +25,37 @@ Shell Scripting
 
 Git & GitHub
 
-Prometheus & Grafana
+Loki, Promtail, Cloudwatch, Prometheus & Grafana
 
-**Infrastructure & Configuration Management:**
-
-Linux Administration
-
-Nginx
 
 🌟 Highlighted Projects
 **🔹 Securely Deploying a Starbucks Clone Using DevSecOps on AWS**
-
 Built a secure CI/CD pipeline using Jenkins, SonarQube, Trivy, and OWASP Dependency Check.
-
 Deployed a containerized application on AWS EKS (Elastic Kubernetes Service).
+Infrastructure automated with Terraform and Helm.
+Integrated monitoring, logging (CloudWatch, Prometheus and Grafana), and vulnerability scanning.
+🔗 https://github.com/Prasadrasal2002/Securely-Deploying-a-Starbucks-Clone-Using-DevSecOps-on-AWS
 
-Infrastructure automated with Terraform.
-
-Implemented continuous monitoring and vulnerability scanning.
-
-**🔹 Spotify Clone Deployment (AWS EC2 + Docker + Jenkins)**
-
-Deployed a fully containerized Spotify clone on AWS EC2 using Docker Compose.
-
-Used Nginx for reverse proxy and load balancing.
-
-Automated build and deployment pipeline with Jenkins.
+**🔹 Interior WebApp with DevOps + DevSecOps + GitHub Actions**
+Developed a full-stack application with frontend and backend integration.
+Implemented GitHub Actions for CI/CD, Dockerized both services.
+Deployed on Kubernetes with Helm charts, ALB, S3, and integrated Promtail + Loki for logging.
+Focused on demonstrating end-to-end DevOps & cloud-native architecture.
+🔗 https://github.com/Prasadrasal2002/interior-webapp-devops-devsecops-githubaction
 
 **🔹 Kubernetes Cluster Setup and Microservices Deployment**
+Set up a local Kubernetes cluster using Kind/Minikube.
+Deployed Node.js-based microservices with YAML manifests.
+Implemented service discovery, load balancing, and auto-scaling using Kubernetes-native tools.
+https://github.com/Prasadrasal2002/Docker-kubernets
 
-Setup Kubernetes cluster with deployment of Node.js microservices using YAML manifests.
-
-Implemented service discovery, load balancing, auto-scaling, and high availability.
+---
 
 **🔹 Infrastructure Automation using Terraform (AWS)**
-
-Provisioned AWS infrastructure using Terraform modules and state management.
-
-Designed IAM policies following security best practices.
+- Provisioned AWS infrastructure (EC2, S3, IAM, VPC) using Terraform modules.
+- Designed scalable architecture and managed state with remote backends.
+- Implemented IAM policies and security best practices.
+🔗  https://github.com/Prasadrasal2002/Terraform-AWS
 
 
 **📊 GitHub Stats:**
